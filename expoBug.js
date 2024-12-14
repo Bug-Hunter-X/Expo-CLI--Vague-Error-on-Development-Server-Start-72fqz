@@ -1,0 +1,1 @@
+While using Expo CLI, I encountered an error where the development server wouldn't start, and the error message was vague or unhelpful. The terminal showed something like "Error: ..." without specifying the cause.
